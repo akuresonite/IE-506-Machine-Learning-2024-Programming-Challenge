@@ -3,7 +3,7 @@
 ### Author:
 Ashish Kumar Uchadiya - 23m1521 - IIT Bombay
 
-#### Report [Report]()
+#### [Report](https://github.com/akuresonite/IE-506-Machine-Learning-2024-Programming-Challenge/blob/main/IE506_Programming_challenge_readme.pdf)
 
 
 ### Overview
